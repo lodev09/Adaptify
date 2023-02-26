@@ -51,7 +51,7 @@ This theme ships with my favorite Color Scheme. It was a modified version of the
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `UI: Select Color Scheme`
-3. Choose `Adaptive Dark` and hit <kbd>Enter</kbd>
+3. Choose `Adaptify Dark` and hit <kbd>Enter</kbd>
 
 ### Settings I use
 The following is the settings I use for this theme. Feel free to copy :)
