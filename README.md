@@ -2,8 +2,6 @@
 A customized version of the default _*Adaptive Theme*_ for [Sublime Text](https://www.sublimetext.com). Simple, modern and flat.
 
 ## Preview
-Below are some screenshots using some of the default Color Schemes.
-
 ### Adaptify Dark
 A Color scheme that I personally use that comes with this theme. See [below](#Adaptify-dark-color-scheme) for usage.
 `UI: Select Color Scheme -> Adaptify Dark`
@@ -13,12 +11,14 @@ A Color scheme that I personally use that comes with this theme. See [below](#Ad
 ### Adaptify Mariana
 `UI: Select Color Scheme -> Marian`
 
-![Adaptify Dark](screenshots/adaptify-mariana.png)
+![Adaptify Mariana](screenshots/adaptify-mariana.png)
 
-### Adaptify Sixteen
+### Default Sixteen
 `UI: Select Color Scheme -> Sixteen`
 
-![Adaptify Dark](screenshots/adaptify-sixteen.png)
+![Default Sixteen](screenshots/default-sixteen.png)
+
+_You can use any other Color Scheme you want, FYI_
 
 ## Installation
 
