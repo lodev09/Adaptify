@@ -2,7 +2,6 @@
 	"variables":
 	{
 		"medium_dark_bg": "color(var(--background) blend(black 80%))",
-		"medium_bg": "color(var(--background) blend(black 75%))",
 
 		"tabset_button_opacity": { "target": 0.5, "speed": 4.0, "interpolation": "smoothstep" },
 		"tabset_new_tab_button_opacity": { "target": 0.5, "speed": 4.0, "interpolation": "smoothstep" },
@@ -223,5 +222,9 @@
  			"settings": ["adaptive_dividers"],
 			"content_margin": [8, 2, 8, 4]
  		},
+ 		{
+			"class": "switch_project_panel_cancel_container",
+			"content_margin": 10,
+		},
 	]
 }
