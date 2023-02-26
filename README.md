@@ -9,7 +9,7 @@ A Color scheme that I personally use that comes with this theme. See [below](#Ad
 ![Adaptify Dark](screenshots/adaptify-dark.png)
 
 ### Adaptify Mariana
-`UI: Select Color Scheme -> Marian`
+`UI: Select Color Scheme -> Adaptify Mariana`
 
 ![Adaptify Mariana](screenshots/adaptify-mariana.png)
 
