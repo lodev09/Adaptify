@@ -196,7 +196,7 @@
  		// Panels
  		{
  			"class": "panel_control",
-			"layer0.tint": "color(var(--background) blend(black 60%))",
+			"layer0.tint": "color(var(--background) blend(black 70%))",
 			"content_margin": 2,
  		},
  		{
@@ -207,7 +207,7 @@
  		},
  		{
  			"class": "status_bar",
-			"layer0.tint": "color(var(--background) blend(black 60%))",
+			"layer0.tint": "color(var(--background) blend(black 70%))",
 			"content_margin": [8, 2, 8, 4]
  		},
  		{
