@@ -83,5 +83,4 @@ The following is the settings I use for this theme. Feel free to copy :)
 	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Adaptify Dark.sublime-color-scheme",
 }
-
 ```
