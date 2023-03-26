@@ -173,7 +173,7 @@
  		// Quick Panel
  		{
 			"class": "overlay_control",
-			"content_margin": [8, 8, 8, 4]
+			"content_margin": 8,
 		},
 		{
  			"class": "quick_panel",
